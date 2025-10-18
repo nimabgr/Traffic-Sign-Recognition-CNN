@@ -18,7 +18,7 @@ The model is trained on the **German Traffic Sign Recognition Benchmark (GTSRB)*
 
 Below are some samples from the dataset:
 
-![Dataset Samples](assets/Samples.jpg)
+![Dataset Samples](assets/Samples.png)
 
 ## Project Workflow
 
