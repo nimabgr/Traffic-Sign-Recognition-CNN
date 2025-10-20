@@ -73,7 +73,7 @@ The image below shows the model's predictions on a random sample of 6 test image
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/nimabgr/Traffic-Sign-Recognition-CNN.git](https://github.com/nimabgr/Traffic-Sign-Recognition-CNN.git)
+    git clone https://github.com/nimabgr/Traffic-Sign-Recognition-CNN.git
     cd Traffic-Sign-Recognition-CNN
     ```
 2.  Install the required libraries. You will need to create a `requirements.txt` file.
